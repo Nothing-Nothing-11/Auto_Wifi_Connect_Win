@@ -1,0 +1,17 @@
+{
+  "name": "auto_wifi_win",
+  "version": "1.0.0",
+  "description": "Auto WiFi Connect - Windows version",
+  "main": "portal-login.mjs",
+  "scripts": {
+    "login": "node portal-login.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "playwright": "1.54.1"
+  }
+}

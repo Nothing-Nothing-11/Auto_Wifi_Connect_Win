@@ -1,0 +1,6 @@
+node_modules/
+ms-playwright/
+.env
+*.log
+debug-*.png
+debug-*.html

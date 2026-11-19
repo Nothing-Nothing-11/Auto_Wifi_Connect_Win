@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-19",
+  "sourcePath": "E:\\Project\\Auto_Wifi_Connect_Win",
+  "sourceCommit": "b8eee7b3b04133eb5882159fc5e8123a5fef3fd0",
+  "sourceBranch": "main",
+  "excluded": [],
+  "redactedExampleFiles": [],
+  "notes": [
+    "Source snapshot only; runtime data and secrets remain local.",
+    "No deployment or application source mutation was performed.",
+    "Existing Git history remains in original local repositories / offline archives.",
+    "GitHub Actions workflows are omitted to prevent triggering builds during archival."
+  ]
+}
